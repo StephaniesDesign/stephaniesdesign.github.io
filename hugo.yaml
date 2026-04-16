@@ -1,6 +1,6 @@
-baseURL: https://stephanienelson07.github.io/
+baseURL: https://stephaniesdesign.github.io/
 locale: en-us
-title: Portfolio
+title: Stephanie's Design
 theme: ["PaperMod"]
 caches:
   images:
@@ -21,7 +21,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Portfolio
+  title: Stephanie's Design
   description: "My portfolio"
   keywords: [Blog, Portfolio]
   author: Stephanie Nelson
@@ -34,7 +34,7 @@ params:
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -53,7 +53,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Stephanie!"
-    Content: Welcome to my portfolio
+    Content: Welcome to my portfolio 👋
+
+      - I'm studying Electrical engineering at North Carolina State University
+
+      - I'm the incoming electrical team lead of [AquaPack Robotics](https://aquapackrobotics.org)
 
   socialIcons:
     - name: github

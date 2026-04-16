@@ -2,6 +2,7 @@
 date: '2026-04-16T01:33:50-04:00'
 draft: false
 title: 'Project Sophia'
+description: "Showcase of the board for Project Sophia"
 cover:
   image: images/Project_Sophia/3D.png
 ---
